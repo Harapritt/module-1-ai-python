@@ -1,4 +1,4 @@
-Module 1: Introduction to AI & Python
+## Module 1: Introduction to AI & Python
 
 Internship Task
 
