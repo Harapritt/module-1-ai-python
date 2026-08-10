@@ -1,14 +1,14 @@
-## Module 1: Introduction to AI & Python
+# Module 1: Introduction to AI & Python
 
-Internship Task
+## Internship Task
 
 This repository contains my work for **Module 1: Introduction to AI & Python** completed as part of my internship.
 
 The module focuses on understanding the fundamentals of Artificial Intelligence and developing basic Python programming skills.
 
-Topics Covered
+## Topics Covered
 
-Artificial Intelligence
+### Artificial Intelligence
 
 * Introduction to Artificial Intelligence
 * Machine Learning fundamentals
@@ -17,7 +17,7 @@ Artificial Intelligence
 * Types of Machine Learning
 * Real-world applications of AI
 
-Python Programming
+### Python Programming
 
 * Python fundamentals
 * Variables and data types
@@ -28,7 +28,7 @@ Python Programming
 * Functions
 * Basic problem-solving programs
 
-Repository Structure
+## Repository Structure
 
 ```text
 module-1-ai-python/
@@ -53,7 +53,7 @@ module-1-ai-python/
     └── beginner_programs.py
 ```
 
-Learning Outcomes
+## Learning Outcomes
 
 After completing this module, I developed a basic understanding of:
 
@@ -69,13 +69,12 @@ After completing this module, I developed a basic understanding of:
 * Functions
 * Basic problem-solving using Python
 
-Tools & Technologies
+## Tools & Technologies
 
 * Python
 * GitHub
-* Google Docs
+* Google Docs / Notion
 
-Conclusion
+## Conclusion
 
 This module provided a foundation in Artificial Intelligence concepts and Python programming. The knowledge and practical exercises completed in this module will serve as a foundation for further learning in Machine Learning and Artificial Intelligence.
-
