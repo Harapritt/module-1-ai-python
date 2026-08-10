@@ -1,4 +1,4 @@
-# Day 1: Introduction to Artificial Intelligence
+# Day 1: Introduction to Artificial Intelligence 
 
 ## Objective
 
